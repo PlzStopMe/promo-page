@@ -62,6 +62,24 @@ nav {
 	opacity:1;
 }
 
+.copyright {
+	text-align: center;
+	color:#757575;
+}
+.copyright p {
+	margin:0;
+}
+.copyright-link {
+	text-decoration: inherit;
+	color: #000;
+	-webkit-transition:0.5s ease all;
+	-moz-transition:0.5s ease all; 
+	transition:0.5s ease all; 
+}
+.copyright-link:hover {
+	color: #757575;
+}
+
 h1, h3 {
 	text-align: center;
 }
